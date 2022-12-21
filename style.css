@@ -1,0 +1,14 @@
+* {
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.title {
+    font-size: 36px;
+}
+
+.list {
+    font-size: 18px;
+    color: black;
+}
+
